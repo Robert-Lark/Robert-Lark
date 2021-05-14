@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="Profile Picture"/>
 <!--
 **Robert-Lark/Robert-Lark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
