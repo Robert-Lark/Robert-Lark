@@ -14,12 +14,17 @@
   </p>
   
 <p align="center">
+<a href="https://www.linkedin.com/in/robertlark/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/e591fde37567a32e51fb1b98924f4df8e45199dca985500749e2a9938fa3e322/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" alt="Rob Lark's LinkedIn Profile" height="30" width="30" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width:100%;">
+   </a>
+    <a href="https://www.instagram.com/burntskies25/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/534bd8110d2f16646fcb89c85717c393cf6f3fdc3ae5d09a39152f14779eccce/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f696e7374616772616d2f696e7374616772616d2d69636f6e2e737667" alt="Rob Larks Instagram Profile" height="30" width="30" data-canonical-src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" style="max-width:100%;">
+  </a>
     </p>
   <br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Lark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Lark&theme=tokyonight&layout=compact" />
   </p>
   
 <p align="center">
