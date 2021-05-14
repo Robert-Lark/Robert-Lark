@@ -1,8 +1,37 @@
-### Hi there 👋
-<div style="text-align:center;">
-  <p>TEST</p>
-<img width="400px" height="450px" src="https://scontent.fsac1-2.fna.fbcdn.net/v/t1.6435-9/37818305_10157538126907388_1920120959956680704_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=84a396&_nc_ohc=sIV-tPfXU3gAX-sMcXy&_nc_ht=scontent.fsac1-2.fna&oh=5c6ba6a79f1a8a178f143bb00fa1dbff&oe=60C51919" alt="Profile Picture"/>
-<div>
+
+<h1 align="center">Welcome to Rob Larks Github Profile</h1>
+
+  <h6 align="center">While new to web development, in the last year I've found a growing passion for it. I particularly enjoy working in <strong>React</strong> & <strong>NodeJs</strong>, building and maintaining dynamic online environments. 
+    <br>
+    <br>
+    I'd like to remain working in the arts industry, where I have spent the last five years managing the online operations of Quiet Calm Records, an online space for record labels & artists to connect with fans. <br>
+    <br>
+    Every day new opportunities open for the arts to harness the power of online interaction. I'd like to be part of this exciting new space.
+</h6>
+
+  <p align="center">
+<img align="center" width="400px" height="425px" src="https://scontent.fsac1-2.fna.fbcdn.net/v/t1.6435-9/37818305_10157538126907388_1920120959956680704_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=84a396&_nc_ohc=sIV-tPfXU3gAX-sMcXy&_nc_ht=scontent.fsac1-2.fna&oh=5c6ba6a79f1a8a178f143bb00fa1dbff&oe=60C51919" alt="Profile Picture"/>
+  </p>
+  
+<p align="center">
+  <img src="https://camo.githubusercontent.com/e591fde37567a32e51fb1b98924f4df8e45199dca985500749e2a9938fa3e322/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" alt="Rob Lark's LinkedIn Profile" height="30" width="30" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width:100%;">
+    </p>
+  <br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Lark&layout=compact" />
+  </p>
+  
+<p align="center">
+<br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Robert-Lark&show_icons=true&theme=radical" />
+</a>
+</p>
+
+
+
+
 <!--
 **Robert-Lark/Robert-Lark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
