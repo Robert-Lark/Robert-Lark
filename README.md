@@ -4,7 +4,7 @@
   <h6 align="center">While new to web development, in the last year I've found a growing passion for it. I particularly enjoy working in <strong>React</strong> & <strong>NodeJs</strong>, building and maintaining dynamic online environments. 
     <br>
     <br>
-    I'd like to remain working in the arts industry, where I have spent the last five years managing the online operations of Quiet Calm Records, an online space for record labels & artists to connect with fans. <br>
+    Currently looking for a great team to join. I'd like to remain working in the arts industry, where I have spent the last five years managing the online operations of <a href="www.quietcalmrecords.com" rel="nofollow">Quiet Calm Records</a>, an online space for record labels & artists to connect with fans. <br>
     <br>
     Every day new opportunities open for the arts to harness the power of online interaction. I'd like to be part of this exciting new space.
 </h6>
