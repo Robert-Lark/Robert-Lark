@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to Rob Larks Github Profile</h1>
 
-  <h6 align="center">While new to web development, in the last year I've found a growing passion for it. I particularly enjoy working in <strong>React</strong> & <strong>NodeJs</strong>, building and maintaining dynamic online environments. 
+  <h6 align="center">While new to web development, in the last couple of years I've found a growing passion for it. I particularly enjoy working in <strong>React</strong> & <strong>NodeJs</strong>, building and maintaining dynamic online environments. 
     <br>
     <br>
     Currently looking for a great team to join. You can check out my portfolio and projects <a href="https://roblark.com/">here</a> 
