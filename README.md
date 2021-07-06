@@ -16,7 +16,7 @@
 <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>NodeJS</strong>, <strong>Python</strong>, <strong>Typescript</strong>, <strong>JSX</strong>, <strong>SQL</strong>
   </p>
   <p align="center">
-<img align="center" width="400px" height="425px" src="https://scontent.fsac1-2.fna.fbcdn.net/v/t1.6435-9/37818305_10157538126907388_1920120959956680704_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=84a396&_nc_ohc=sIV-tPfXU3gAX-sMcXy&_nc_ht=scontent.fsac1-2.fna&oh=5c6ba6a79f1a8a178f143bb00fa1dbff&oe=60C51919" alt="Profile Picture"/>
+<!-- <img align="center" width="400px" height="425px" src="https://scontent.fsac1-2.fna.fbcdn.net/v/t1.6435-9/37818305_10157538126907388_1920120959956680704_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=84a396&_nc_ohc=sIV-tPfXU3gAX-sMcXy&_nc_ht=scontent.fsac1-2.fna&oh=5c6ba6a79f1a8a178f143bb00fa1dbff&oe=60C51919" alt="Profile Picture"/> -->
   </p>
   
 <p align="center">
