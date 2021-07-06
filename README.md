@@ -4,7 +4,7 @@
   <h6 align="center">While new to web development, in the last couple of years I've found a growing passion for it. I particularly enjoy working in <strong>React</strong> & <strong>NodeJs</strong>, building and maintaining dynamic online environments. 
     <br>
     <br>
-    Currently I do contract work for an amazing project called [Story Squad](https://github.com/story-squad). You can check out my portfolio and projects <a href="https://roblark.com/">here</a> 
+    Currently I do contract work for an amazing project called Story Squad <a href=https://github.com/story-squad) rel="nofollow"> You can check out my portfolio and projects <a href="https://roblark.com/">here</a> 
   <br>
   <br>
   I have spent the last five years managing the online operations of <a href="https://www.quietcalmrecords.com/" rel="nofollow">Quiet Calm Records</a>, an online space for record labels & artists to connect with fans. <br>
