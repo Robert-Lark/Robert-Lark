@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to Rob Larks Github Profile</h1>
 
-  <h6 align="center">While new to web development, in the last couple of years I've found a growing passion for it. I particularly enjoy working in <strong>React</strong> & <strong>NodeJs</strong>, building and maintaining dynamic online environments. 
+  <h6 align="center">Thanks for visiting my Github profile - take a look around. I am a passionate Full-Stack Web Dev. I particularly enjoy working in <strong>React</strong> & <strong>NodeJs</strong>, building and maintaining dynamic online environments. 
     <br>
     <br>
     Currently I do contract work for an amazing project called <a href=https://github.com/story-squad rel="nofollow">Story Squad</a>. You can check out my portfolio and projects <a href="https://roblark.com/">here</a>.
