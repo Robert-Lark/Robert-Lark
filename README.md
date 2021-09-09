@@ -9,7 +9,7 @@
   <br>
   I have spent the last five years managing the online operations of <a href="https://www.quietcalmrecords.com/" rel="nofollow">Quiet Calm Records</a>, an online space for record labels & artists to connect with fans. <br>
     <br>
-    I love to work hard and try new things. Be it working as a Herd Manager on Ranch, Bartending at Toronto's busiest BBQ joint or working as a Nature Guide in a World Heritage Site. 2020 saw me dive headfirst into my lifelong goal of learning to build and manage online environments.
+    I love to work hard and try new things. Be it working as a Herd Manager on Ranch, Bartending at Toronto's busiest BBQ joint or working as a Nature Guide in a World Heritage Site. 
 </h6>
 <h5 align="center"> I write in</h5>
 <p align="center">
