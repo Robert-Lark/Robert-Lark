@@ -10,7 +10,7 @@
   Previously I worked and managed several record stores in California's central valley. 
     <br>
   <br>
-    I have a weekly radio show called DJ Deep Fields Exploratorium that airs 8-10pm PST on <a href="https://kxcj.org/">KXCJLP</a>.. On the show I spin selections from my collection of drone and ambient electronic music. 
+    I have a weekly radio show called DJ Deep Fields Exploratorium that airs 8-10pm PST on <a href="https://kxcj.org/">KXCJLP</a>. On the show I spin selections from my collection of drone and ambient electronic music. 
     <br>
   <br>
     I love to work hard and try new things. Be it working as a Herd Manager on Ranch, Bartending at Toronto's busiest BBQ joint or working as a Nature Guide in a World Heritage Site. 
