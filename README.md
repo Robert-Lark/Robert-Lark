@@ -7,7 +7,9 @@
     I am a Front-End Engineer at <a href="https://www.discogs.com/" rel="nofollow">Discogs</a> working on the Catalog team. You can check out my portfolio and projects <a href="https://roblark.com/">here</a>.
   <br>
   <br>
-  Previously I worked and managed several record stores in California's central valley. I have a weekly radio show called DJ Deep Fields Exploratorium that airs 8-10pm PST on [KXCJ-LP](https://kxcj.org/). On the show I spin selections from my collection of drone and ambient electronic music. 
+  Previously I worked and managed several record stores in California's central valley. 
+    <br>
+    I have a weekly radio show called DJ Deep Fields Exploratorium that airs 8-10pm PST on <a href="https://kxcj.org/">KXCJLP</a>.. On the show I spin selections from my collection of drone and ambient electronic music. 
     <br>
     I love to work hard and try new things. Be it working as a Herd Manager on Ranch, Bartending at Toronto's busiest BBQ joint or working as a Nature Guide in a World Heritage Site. 
 </h6>
