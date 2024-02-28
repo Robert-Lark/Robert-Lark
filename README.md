@@ -4,7 +4,7 @@
   <h6 align="center">Thanks for visiting my Github profile - take a look around. I am a passionate Front End Web Dev. I particularly enjoy working in <strong>React</strong>, <strong>TS</strong> & <strong>GraphQL</strong>, building and maintaining dynamic online environments. 
     <br>
     <br>
-    I am a Front-End Engineer at <a href="https://www.discogs.com/" rel="nofollow"/> working on the Catalog team. You can check out my portfolio and projects <a href="https://roblark.com/">here</a>.
+    I am a Front-End Engineer at <a href="https://www.discogs.com/" rel="nofollow">Discogs</a> working on the Catalog team. You can check out my portfolio and projects <a href="https://roblark.com/">here</a>.
   <br>
   <br>
   Previously I worked and managed several record stores in California's central valley. I have a weekly radio show called DJ Deep Fields Exploratorium that airs 8-10pm PST on [KXCJ-LP](https://kxcj.org/). On the show I spin selections from my collection of drone and ambient electronic music. 
